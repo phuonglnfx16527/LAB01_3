@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is LAB01_5",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuonglnfx16527/LAB01_3.git"
+  },
+  "author": "phuonglnfx16527",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuonglnfx16527/LAB01_3/issues"
+  },
+  "homepage": "https://github.com/phuonglnfx16527/LAB01_3#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
